@@ -1,0 +1,11 @@
+integer heightFt
+integer heightIn
+float cmPerInch
+integer inchesPerFeet
+integer totalInches 
+float heightCm
+
+cmPerInch = 2.54
+inchesPerFeet = 12
+// Total inches  totalInches = (heightFt * inchesPerFeet) + heightIn
+// Convert inches to cm heightCm = totalInches * cmPerInch

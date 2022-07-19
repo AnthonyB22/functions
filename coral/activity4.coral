@@ -1,0 +1,7 @@
+integer squaredVal
+integer numToSquare
+integer numSquared 
+
+squaredVal = numSquared
+Put squaredVal to output 
+numSquared = numToSquare * numToSquare
